@@ -1,0 +1,17 @@
+{
+  "name": "broccoli-webpack-fast",
+  "version": "1.0.0",
+  "description": "Webpack plugin for Broccoli with fast rebuilds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafal Stozek <rafal.stozek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli": "^0.13.3",
+    "quick-temp": "^0.1.2",
+    "rsvp": "^3.0.16",
+    "webpack": "^1.4.15"
+  }
+}
