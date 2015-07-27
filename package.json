@@ -1,12 +1,25 @@
 {
   "name": "broccoli-webpack-fast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack plugin for Broccoli with fast rebuilds.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rafal Stozek <rafal.stozek@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artificialio/sane"
+  },
+  "bugs": {
+    "url": "https://github.com/artificialio/sane/issues"
+  },
+    "keywords": [
+    "broccoli",
+    "broccoli-plugin",
+    "webpack",
+    "bundle"
+  ],
   "license": "MIT",
   "dependencies": {
     "broccoli": "^0.13.3",
