@@ -9,10 +9,10 @@
   "author": "Rafal Stozek <rafal.stozek@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/artificialio/sane"
+    "url": "https://github.com/rafales/broccoli-webpack-fast"
   },
   "bugs": {
-    "url": "https://github.com/artificialio/sane/issues"
+    "url": "https://github.com/rafales/broccoli-webpack-fast/issues"
   },
     "keywords": [
     "broccoli",
